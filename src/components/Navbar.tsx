@@ -1,5 +1,5 @@
 import React, { useState } from 'react';
-import { Bot, Menu, X, Github, Settings } from 'lucide-react';
+import { Bot, Menu, X, Settings } from 'lucide-react';
 
 interface NavbarProps {
     currentSection: string;
